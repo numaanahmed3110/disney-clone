@@ -12,11 +12,13 @@ The Disney+ Clone is a web application designed to mimic the user interface and 
   - **User Authentication**
     
       **1. Sign-Up and Login**: Users can create accounts and log in securely using Firebase Authentication.
+    
       **2. Persistent Sessions**: Users remain logged in even after refreshing the page.
   
   - **Home Page**
     
       **1. Movie Categories**: Display various categories such as "New Releases," "Trending," "Originals," etc.
+    
       **2. Dynamic Content**: Fetch and display content dynamically from Firestore.
   
   - **Detailed View**
@@ -30,6 +32,7 @@ The Disney+ Clone is a web application designed to mimic the user interface and 
   - **Responsive Design**
     
       **1. Mobile Friendly**: Fully responsive design to ensure optimal user experience on all devices.
+    
       **2. Modern UI**: Clean and modern user interface design to replicate the Disney+ look and feel.
 
 ### Installation
