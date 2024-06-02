@@ -35,8 +35,6 @@ The Disney+ Clone is a web application designed to mimic the user interface and 
     
       **2. Modern UI**: Clean and modern user interface design to replicate the Disney+ look and feel.
 
-### Installation
-  To get a local copy up and running, follow these steps:
 
 ### License
   This project is licensed under the MIT License - see the LICENSE file for details.
