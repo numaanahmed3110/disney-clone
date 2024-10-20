@@ -1,7 +1,7 @@
-# Disney+ Clone Project
+# StreamSavvy Project
 
 ## Introduction
-The Disney+ Clone is a web application designed to mimic the user interface and experience of Disney's streaming service. This project aims to provide a polished, functional replica, showcasing various aspects of modern web development.
+This is a web application designed to mimic the user interface and experience of Disney's streaming service. This project aims to provide a polished, functional replica, showcasing various aspects of modern web development.
 
 ### Tech Stack
   - **Frontend**: React.js, Redux, HTML, CSS, JavaScript
@@ -40,4 +40,4 @@ The Disney+ Clone is a web application designed to mimic the user interface and 
   This project is licensed under the MIT License - see the LICENSE file for details.
 
 #
-**Thank you for checking out the Disney+ Clone project!**
+**Thank you for checking out this project!**
